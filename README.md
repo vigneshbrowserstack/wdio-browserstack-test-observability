@@ -1,3 +1,5 @@
+![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fobservability.browserstack.com%2Fprojects%2FTest%2BObservability%2BSamples%2Fbuilds%2Fwdio-cucumber-samples%2F235&link=https%3A%2F%2Fobservability.browserstack.com%2Fprojects%2FTest%2BObservability%2BSamples%2Fbuilds%2Fwdio-cucumber-samples%2F235)
+
 [**BrowserStack Test Observability**](https://www.browserstack.com/test-observability) is a next generation tool which brings together test reporting, precision debugging, flaky test detection and more... all on the same easy to use dashboard.
 
 Test Observability works regardless of if your tests run on BrowserStack, your local machine, or other cloud infrastructure platforms.
